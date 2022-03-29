@@ -151,7 +151,7 @@ header .logo{
 }
 
 .image_home{
-    background-image: url(./Imagens/maos.jpg);
+    background-image: url(../Imagens/maos.jpg);
     opacity: 0.8;
     width: 50%;
     height: 500px;
